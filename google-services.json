@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "195923902546",
+    "firebase_url": "https://bad4you-4e5f1.firebaseio.com",
+    "project_id": "bad4you-4e5f1",
+    "storage_bucket": "bad4you-4e5f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195923902546:android:13d6fcbf612754d5",
+        "android_client_info": {
+          "package_name": "com.outfit7.talkingtom2free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195923902546-8laq5eglesfiv6jtuftm2hf7h2ootg4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPujhM2lyv_FEZFn7_3xH0O39agyeZ-_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
